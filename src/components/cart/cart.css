@@ -1,0 +1,11 @@
+.cart__container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 32px;
+    gap: 10px;
+}
+
+.card_badge-hidden{
+    display: none;
+}
